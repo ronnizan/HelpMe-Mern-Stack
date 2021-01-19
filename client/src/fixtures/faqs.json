@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "header": "What is HelpMe?",
+    "body": "HelpMe is a service for connecting people who need fast response. you can publish a post describing your needs and decide if you like to pay or offer the post as a volunteering activity."
+  },
+  {
+    "id": 2,
+    "header": "How much does HelpMe cost?",
+    "body": "The Usage of the site is Free. you can publish or accept payment posts or a volunteering posts."
+  },
+
+  {
+    "id": 3,
+    "header": "How do I cancel?",
+    "body": "You can delete your account any time."
+  }
+]
